@@ -23,7 +23,7 @@ Di dalam setiap jurnal mingguan, Anda akan menemukan dokumentasi berupa:
 | Week 02 | Fondasi Arsitektur Komputer & Manajemen Memori |
 | Week 03 | Binary & Executable dalam Reverse Engineering |
 | Week 04 | Static Analysis |
-| Week 05 | *Coming soon* |
+| Week 05 | Dynamic Analysis |
 | Week 06 | *Coming soon* |
 | Week 07 | *Coming soon* |
 | Week 08 | *Coming soon* |
