@@ -24,9 +24,9 @@ Di dalam setiap jurnal mingguan, Anda akan menemukan dokumentasi berupa:
 | Week 03 | Binary & Executable dalam Reverse Engineering |
 | Week 04 | Static Analysis |
 | Week 05 | Dynamic Analysis |
-| Week 06 | *Coming soon* |
-| Week 07 | *Coming soon* |
-| Week 08 | *Coming soon* |
+| Week 06 | Membedah Static Analysis dan Dynamic Analysis dalam Reverse Engineering|
+| Week 07 | Reverse Engineering Hardware |
+| Week 08 | Vulnerability Analysis |
 
 ---
 
